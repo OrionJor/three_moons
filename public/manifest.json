@@ -1,0 +1,23 @@
+{
+    "lang": "pt-br",
+    "theme_color": "#06092b",
+    "background_color": "#06092b",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Loja Três Luas -- Three Moons Store",
+    "short_name": "Loja três Luas",
+    "description": "Projeto Feito com NextJS da Loja Três Luas Moda Feminina",
+    "icons": [
+        {
+            "src": "/img/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+          },
+          {
+            "src": "/img/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+          }
+    ]
+}
